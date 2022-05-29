@@ -5,6 +5,12 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title:Docs
+    description: .
+    website: https://docs.stack.jimmycai.com/
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+
+
 menu:
     main: 
         weight: 4
