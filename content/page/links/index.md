@@ -8,7 +8,7 @@ links:
   - title: Docs
     description: docs.
     website: https://docs.stack.jimmycai.com/
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
     
 menu:
     main: 
