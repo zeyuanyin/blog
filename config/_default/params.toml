@@ -18,7 +18,8 @@ subtitle = "The best era is 2019 and right now."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+# src = "img/avatar.png"
+src = "img/zeyuan_2021.png"
 
 [article]
 math = false
